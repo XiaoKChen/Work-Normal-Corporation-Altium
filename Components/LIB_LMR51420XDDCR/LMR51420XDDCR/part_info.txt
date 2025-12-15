@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LMR51420XDDCR
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=2.1
+Released=2022-09-15 11:38:24
+Downloaded=2025-12-15 03:03:40
+3D=Y

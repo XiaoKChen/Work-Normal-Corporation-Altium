@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LMR51420XDDCR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LMR51420XDDCR" (!) = "", "SOT95P280X110-6N", "SOT23 (6-Pin)", "595-LMR51420XDDCR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR51420XDDCR?qs=vvQtp7zwQdN6fBqQU4azxw%3D%3D", "LMR51420XDDCR", "https://www.arrow.com/en/products/lmr51420xddcr/texas-instruments?utm_currency=USD&region=nac", "Switching Voltage Regulators SIMPLE SWITCHER power converter 4.5-V to 36-V, 2-A, synchronous buck with 40-uA IQ", "https://www.ti.com/lit/ds/symlink/lmr51420.pdf?ts=1663231243064", "1.1 mm"
+END_PART
+
+END.

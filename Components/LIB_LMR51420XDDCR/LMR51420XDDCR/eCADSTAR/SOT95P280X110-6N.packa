@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LMR51420XDDCR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-08-16-10:17:55)
+    (mountForm default
+        (footprintRef "SOT95P280X110-6N")
+        (spec "System")
+    )
+)

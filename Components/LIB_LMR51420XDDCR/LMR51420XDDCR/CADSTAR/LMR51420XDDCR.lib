@@ -1,0 +1,18 @@
+.LMR51420XDDCR :1 ;Switching Voltage Regulators SIMPLE SWITCHER power converter 4.5-V to 36-V, 2-A, synchronous buck with 40-uA IQ
+SOT95P280X110-6N
+*STM IC
+*NGS
+*PLB 1="GND" 2="SW" 3="VIN" 4="FB" 5="EN" 6="CB"
+*MXP 6
+*DFN LMR51420XDDCR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LMR51420XDDCR)
+~!Mouser Part Number (595-LMR51420XDDCR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMR51420XDDCR?qs=vvQtp7zwQdN6fBqQU4azxw%3D%3D)
+~!Arrow Part Number (LMR51420XDDCR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/lmr51420xddcr/texas-instruments?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/lmr51420.pdf?ts=1663231243064)
+~!Height (1.1mm)
+~!3D_Model (LMR51420XDDCR)
+LMR51420XDDCR
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 
