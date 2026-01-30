@@ -1,2 +1,2 @@
-# Work-Normal-Cooperation-Altium
-Work-Normal-Cooperation-Altium
+# Work-Normal-Corporation-Altium
+Work-Normal-Corporation-Altium
