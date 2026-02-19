@@ -1,4 +1,4 @@
-[submodule "Work-Normal-Corperation-Altium-Compoents"]
-	path = Work-Normal-Corperation-Altium-Compoents
-	url = git@github-XiaoKChen:XiaoKChen/Work-Normal-Corperation-Altium-Compoents.git
+[submodule "Work-Normal-Corporation-Altium-Components"]
+	path = Work-Normal-Corporation-Altium-Components
+	url = git@github.com:XiaoKChen/Work-Normal-Corporation-Altium-Compoents.git
 	branch = version/A7

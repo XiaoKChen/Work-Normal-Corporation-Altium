@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BSS138_7_F'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Multicomp Pro", "BSS138-7-F" (!) = "", "BSS1387F", "Other", "", "", "", "", "MULTICOMP - BSS138-7-F - MOSFET, N CHANNEL, 50V, 1.4OHM, 200mA, SOT-23-3", "https://componentsearchengine.com/Datasheets/2/BSS138-7-F.pdf", "1.2 mm"
+END_PART
+
+END.

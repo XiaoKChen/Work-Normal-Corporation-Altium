@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BSS138-7-F
+D MULTICOMP - BSS138-7-F - MOSFET, N CHANNEL, 50V, 1.4OHM, 200mA, SOT-23-3
+K
+F https://componentsearchengine.com/Datasheets/2/BSS138-7-F.pdf
+$ENDCMP
+#
+#End Doc Library

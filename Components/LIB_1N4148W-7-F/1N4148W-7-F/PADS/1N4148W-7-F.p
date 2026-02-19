@@ -1,0 +1,21 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+1N4148W-7-F SOD3716X145N I DIO 9 1 0 0 0
+TIMESTAMP 2026.02.12.03.20.15
+"Manufacturer_Name" Diodes Incorporated
+"Manufacturer_Part_Number" 1N4148W-7-F
+"Mouser Part Number" 621-1N4148W-F
+"Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/1N4148W-7-F?qs=LHX0FizJzg7Ae9ZM8LTAWw%3D%3D
+"Arrow Part Number" 1N4148W-7-F
+"Arrow Price/Stock" https://www.arrow.com/en/products/1n4148w-7-f/diodes-incorporated?utm_currency=USD&region=asia
+"Description" Diode Switching 150mA 100V 400mW SOD123 Diodes Inc 1N4148W-7-F Switching Diode 100V, 2-Pin SOD-123
+"Datasheet Link" https://www.diodes.com//assets/Datasheets/BAV16W_1N4148W.pdf
+"Geometry.Height" 1.45mm
+GATE 1 2 0
+1N4148W-7-F
+1 0 U K
+2 0 U A
+
+*END*
+*REMARK* SamacSys ECAD Model
+268873/1717324/2.50/2/2/Diode

@@ -1,0 +1,9 @@
+Manufacturer=Multicomp Pro
+PartNumber=BSS138-7-F
+PartCategory=MOSFET (N-Channel)
+PackageCategory=Other
+PinCount=3
+Version=1.1
+Released=2019-06-24 14:51:41
+Downloaded=2026-02-12 02:18:15
+3D=Y

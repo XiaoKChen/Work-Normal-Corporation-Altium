@@ -1,0 +1,18 @@
+.BSS138-7-F :1 ;MULTICOMP - BSS138-7-F - MOSFET, N CHANNEL, 50V, 1.4OHM, 200mA, SOT-23-3
+BSS1387F
+*STM Q
+*NGS
+*PLB 1="G" 2="S" 3="D"
+*MXP 3
+*DFN BSS138-7-F
+~!Manufacturer_Name (Multicomp Pro)
+~!Manufacturer_Part_Number (BSS138-7-F)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/BSS138-7-F.pdf)
+~!Height (1.2mm)
+~!3D_Model (BSS138-7-F)
+BSS138-7-F
+1.1!U 2.1!U 3.1!U 
